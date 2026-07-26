@@ -581,3 +581,17 @@ Official Website:
 https://www.nsws.gov.in/
 
 > Note: This repository is an independent portfolio project inspired by enterprise backend development experience. It does not contain any proprietary source code, confidential information, or official implementation details from NSWS or my employer.
+
+
+> ⚠️ Important Notice
+
+This repository is an independently developed portfolio project inspired by enterprise backend development experience.
+
+It is **not affiliated with, endorsed by, or an official implementation of** the National Single Window System (NSWS), Tata Consultancy Services (TCS), or any Government of India organization.
+
+All source code, documentation, APIs, architecture diagrams, and examples are original and created solely for learning and demonstration purposes.
+
+No confidential information, proprietary assets, or employer intellectual property is included.
+
+
+
