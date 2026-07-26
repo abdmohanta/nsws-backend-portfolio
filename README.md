@@ -571,3 +571,13 @@ POST /applications
 # License
 
 This repository is published solely for educational and portfolio purposes.
+
+
+## About NSWS
+
+The National Single Window System (NSWS) is a Government of India initiative that provides a unified digital platform for businesses to identify and apply for approvals, registrations, licenses, and clearances from multiple Central Ministries, Departments, and participating State Governments.
+
+Official Website:
+https://www.nsws.gov.in/
+
+> Note: This repository is an independent portfolio project inspired by enterprise backend development experience. It does not contain any proprietary source code, confidential information, or official implementation details from NSWS or my employer.
