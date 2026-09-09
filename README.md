@@ -141,11 +141,8 @@ Responsibilities
 Endpoints
 
 POST /applications
-
 PUT /applications/{id}
-
 GET /applications/{id}
-
 GET /applications
 
 ---
@@ -163,25 +160,15 @@ Responsibilities
 Workflow
 
 Draft
-
 ↓
-
 Submitted
-
 ↓
-
 Under Review
-
 ↓
-
 Clarification Required
-
 ↓
-
 Resubmitted
-
 ↓
-
 Approved / Rejected
 
 ---
@@ -198,53 +185,36 @@ Responsibilities
 Supported Files
 
 PDF
-
 JPEG
-
 PNG
-
 DOCX
-
 Endpoints
 
 POST /documents/upload
-
 GET /documents/{id}
-
 DELETE /documents/{id}
 
 ---
 
 ## 7. Approval Service
-
 Responsibilities
-
 - Approve Application
 - Reject Application
 - Request Clarification
 - Digital Approval History
-
 ---
 
 ## 8. Notification Service
-
 Responsibilities
-
 - Email Notification
 - SMS Notification
 - Application Status Alerts
 - Reminder Notifications
-
 Communication
-
 Kafka Events
-
 ↓
-
 Notification Service
-
 ↓
-
 Email/SMS
 
 ---
@@ -263,17 +233,14 @@ Responsibilities
 ## 10. Dashboard Service
 
 Responsibilities
-
 - Pending Applications
 - Approval Statistics
 - User Analytics
 - Daily Reports
-
 ---
-
 # Database Design
 
-Users
+UserS
 
 Applications
 
