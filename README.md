@@ -502,7 +502,7 @@ POST /applications
     "state":"Odisha"
 }
 
----
+
 
 # Sample Response
 
@@ -512,7 +512,7 @@ POST /applications
     "message":"Application submitted successfully."
 }
 
----
+
 
 # Skills Demonstrated
 
@@ -550,7 +550,7 @@ https://www.nsws.gov.in/
 > Note: This repository is an independent portfolio project inspired by enterprise backend development experience. It does not contain any proprietary source code, confidential information, or official implementation details from NSWS or my employer.
 
 
-> ⚠️ Important Notice
+>  Important Notice
 
 This repository is an independently developed portfolio project inspired by enterprise backend development experience.
 
